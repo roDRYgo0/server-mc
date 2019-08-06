@@ -1,0 +1,9 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_frozen_ocean": "2019-07-30 01:25:27 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 1968
+}

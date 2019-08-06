@@ -1,0 +1,45 @@
+lastAccountName: Mar
+timestamps:
+  login: 1565023925115
+  logout: 1565026024849
+  lastteleport: 1565024994751
+  mute: 0
+ipAddress: 179.5.222.50
+logoutlocation:
+  world: world
+  x: -5177.300000011921
+  y: 57.0
+  z: -3201.1344997481046
+  yaw: -254.10205
+  pitch: 20.549786
+lastlocation:
+  world: world
+  x: -4268.210324404575
+  y: 95.0
+  z: -337.7429883206343
+  yaw: 153.9545
+  pitch: 11.9999895
+money: '1602.13249999999973374'
+homes:
+  home:
+    world: world
+    x: -4763.699999988079
+    y: 94.0
+    z: -3227.1580292524227
+    yaw: 160.5012
+    pitch: 28.949982
+  mina:
+    world: world
+    x: -2850.1374257351013
+    y: 9.0
+    z: 263.1702490535047
+    yaw: -4.5043335
+    pitch: 9.450077
+  mine:
+    world: world_nether
+    x: -1170.4910378852396
+    y: 60.0
+    z: -97.17671428626115
+    yaw: -264.90845
+    pitch: 23.249914
+muted: false

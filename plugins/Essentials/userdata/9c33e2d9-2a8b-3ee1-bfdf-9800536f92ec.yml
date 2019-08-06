@@ -1,0 +1,43 @@
+lastAccountName: AtolChuco
+timestamps:
+  login: 1565105343801
+  lastteleport: 1565072691382
+  logout: 1565072762483
+ipAddress: 190.62.251.202
+homes:
+  exploration:
+    world: world_the_end
+    x: 75.74723566553584
+    y: 131.0
+    z: 5730.692240975852
+    yaw: -101.44971
+    pitch: 23.500248
+  casa:
+    world: world
+    x: -4427.032898183895
+    y: 68.0
+    z: -448.9694867152356
+    yaw: -269.91846
+    pitch: 5.2692037
+  xp:
+    world: world_the_end
+    x: 247.9322314564489
+    y: 1.5
+    z: 6.5779634492627626
+    yaw: -89.98682
+    pitch: 12.183257
+lastlocation:
+  world: world
+  x: -4358.453629447417
+  y: 72.0
+  z: -377.8777266079326
+  yaw: -220.45486
+  pitch: 18.690231
+logoutlocation:
+  world: world
+  x: -4411.535393225057
+  y: 68.0
+  z: -441.8503279068306
+  yaw: -163.14081
+  pitch: 24.996687
+money: '1738.27950000000024907'

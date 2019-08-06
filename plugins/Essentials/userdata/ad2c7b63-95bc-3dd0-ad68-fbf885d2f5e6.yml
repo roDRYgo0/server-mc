@@ -1,0 +1,29 @@
+lastAccountName: vilanova
+timestamps:
+  login: 1564724053696
+  logout: 1564733766399
+  lastteleport: 1564732023906
+ipAddress: 190.99.63.92
+lastlocation:
+  world: world
+  x: -4336.5
+  y: 72.0
+  z: -377.5
+  yaw: 90.349625
+  pitch: 8.499853
+logoutlocation:
+  world: world
+  x: -3689.9636981027575
+  y: 116.0
+  z: -755.79767786964
+  yaw: 307.05334
+  pitch: -28.050018
+homes:
+  home:
+    world: world
+    x: -4336.634717191806
+    y: 72.0
+    z: -365.906840315791
+    yaw: -172.05035
+    pitch: 30.899958
+money: '91.22600000000000007'

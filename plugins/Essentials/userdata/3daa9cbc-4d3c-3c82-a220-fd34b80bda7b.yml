@@ -1,0 +1,29 @@
+lastAccountName: PaoloXPerla
+timestamps:
+  login: 1564801632090
+  logout: 1564802038878
+  lastteleport: 1564802031552
+ipAddress: 179.5.103.72
+lastlocation:
+  world: world
+  x: -4374.687441385204
+  y: 65.0
+  z: -455.69999998807907
+  yaw: 294.74646
+  pitch: -4.6498785
+logoutlocation:
+  world: world
+  x: -4373.23774426222
+  y: 71.0
+  z: -459.7268358805112
+  yaw: -42.751553
+  pitch: 43.35002
+money: '788.98100000000001332'
+homes:
+  home:
+    world: world
+    x: -4373.363589732354
+    y: 71.0
+    z: -461.7079060307985
+    yaw: -181.95146
+    pitch: 13.949998

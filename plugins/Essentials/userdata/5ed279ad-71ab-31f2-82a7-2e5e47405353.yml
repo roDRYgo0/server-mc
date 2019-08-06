@@ -1,0 +1,29 @@
+lastAccountName: Juanito095
+timestamps:
+  login: 1563697199585
+  logout: 1563699192500
+  lastteleport: 1563699018582
+ipAddress: 189.135.22.188
+logoutlocation:
+  world: world
+  x: -4430.882219795681
+  y: 57.0
+  z: -402.17679269933814
+  yaw: -338.7594
+  pitch: -6.8245783
+lastlocation:
+  world: world
+  x: -4461.783917440228
+  y: 69.0
+  z: -408.43110997697045
+  yaw: -165.14441
+  pitch: 9.875987
+money: '858.06800000000006434'
+homes:
+  home:
+    world: world
+    x: -4370.955810519757
+    y: 70.0
+    z: -423.0994214480605
+    yaw: -329.15186
+    pitch: 9.991932

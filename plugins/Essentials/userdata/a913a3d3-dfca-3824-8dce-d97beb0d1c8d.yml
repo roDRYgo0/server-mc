@@ -1,0 +1,37 @@
+lastAccountName: UwU
+timestamps:
+  login: 1564966767934
+  logout: 1564968492999
+  lastteleport: 1564968205104
+ipAddress: 190.87.86.138
+logoutlocation:
+  world: world
+  x: -2377.38911973863
+  y: 23.0
+  z: -1103.6457042473412
+  yaw: -4.2023005
+  pitch: -8.550298
+money: '15446.9739999999999704'
+lastlocation:
+  world: world
+  x: -4346.36307850861
+  y: 113.66467753350709
+  z: -392.7654313153281
+  yaw: -246.88855
+  pitch: 2.7001302
+afk: false
+homes:
+  home:
+    world: GladiatorArena
+    x: 301.8017821006953
+    y: 128.0
+    z: 362.1144774859444
+    yaw: -87.89996
+    pitch: 16.19998
+  dungeon:
+    world: world
+    x: -2387.3153629817984
+    y: 23.0
+    z: -1100.8036805434456
+    yaw: -284.09668
+    pitch: 4.349737

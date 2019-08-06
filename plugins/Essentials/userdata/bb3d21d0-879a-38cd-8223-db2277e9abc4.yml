@@ -1,0 +1,44 @@
+lastAccountName: Elviolaburras
+timestamps:
+  login: 1565050875915
+  lastteleport: 1565056422696
+  logout: 1565056672427
+ipAddress: 138.186.251.100
+lastlocation:
+  world: world
+  x: -4559.553217154858
+  y: 130.0
+  z: -418.73838010391836
+  yaw: -258.95322
+  pitch: 20.550127
+logoutlocation:
+  world: world
+  x: 1783.09292852388
+  y: 69.0
+  z: -3829.324925376189
+  yaw: -41.1432
+  pitch: 8.849996
+money: '3143.3029999999998539'
+homes:
+  home:
+    world: world
+    x: -4529.62840045034
+    y: 200.0
+    z: -443.68090912325755
+    yaw: 327.24835
+    pitch: 25.349934
+  elviolaburras:
+    world: world
+    x: -4555.236660823753
+    y: 130.0
+    z: -417.1906496618407
+    yaw: -256.10367
+    pitch: 16.200176
+  lajungla:
+    world: world
+    x: -4557.184009580491
+    y: 200.0
+    z: -415.88650714159235
+    yaw: -182.90833
+    pitch: 40.650196
+afk: false

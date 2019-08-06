@@ -1,0 +1,29 @@
+lastAccountName: Gusgus
+timestamps:
+  login: 1565083456774
+  lastteleport: 1565087260696
+  logout: 1565089483521
+ipAddress: 190.62.251.223
+money: '5106.9210000000000577'
+lastlocation:
+  world: world
+  x: -3965.5
+  y: 85.0
+  z: -272.5
+  yaw: -277.55798
+  pitch: 35.725563
+logoutlocation:
+  world: world
+  x: -3965.121142003075
+  y: 90.0
+  z: -270.0810854460222
+  yaw: -219.90735
+  pitch: 12.800485
+homes:
+  gusgus:
+    world: world
+    x: -3965.2808337209813
+    y: 89.0
+    z: -272.72786960708174
+    yaw: -277.55798
+    pitch: 35.725563

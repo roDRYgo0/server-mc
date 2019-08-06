@@ -1,0 +1,43 @@
+lastAccountName: FOSand27
+timestamps:
+  login: 1565057518773
+  lastteleport: 1565062772884
+  logout: 1565063102925
+ipAddress: 138.186.250.250
+lastlocation:
+  world: world
+  x: -4336.634717191806
+  y: 72.0
+  z: -365.906840315791
+  yaw: -172.05035
+  pitch: 30.899958
+homes:
+  home:
+    world: world
+    x: -4271.630676260442
+    y: 60.0
+    z: -454.344368810239
+    yaw: -278.8993
+    pitch: 37.94994
+  mina:
+    world: world
+    x: -3870.9795195579795
+    y: 41.0
+    z: -2300.699999988079
+    yaw: -62.66449
+    pitch: 36.150112
+  ws:
+    world: world
+    x: -3711.537959277063
+    y: 69.0
+    z: 468.19958443468147
+    yaw: 37.513157
+    pitch: 24.449902
+logoutlocation:
+  world: world
+  x: -4353.962714530947
+  y: 70.0
+  z: -392.794540593761
+  yaw: -178.80034
+  pitch: 16.499939
+money: '19.0855000000000805'

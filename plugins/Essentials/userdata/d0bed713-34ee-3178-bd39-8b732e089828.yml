@@ -1,0 +1,44 @@
+lastAccountName: POO
+timestamps:
+  login: 1565055096115
+  logout: 1565065190720
+  lastteleport: 1565064876769
+ipAddress: 179.51.60.109
+money: '16070.05899999999933706'
+logoutlocation:
+  world: world
+  x: -4328.352191994692
+  y: 75.0
+  z: -449.8405191998488
+  yaw: -206.35144
+  pitch: 23.39978
+lastlocation:
+  world: world_the_end
+  x: 248.70074365842254
+  y: 1.5
+  z: 8.304791330236947
+  yaw: 241.93855
+  pitch: 12.900077
+afk: false
+homes:
+  home:
+    world: world
+    x: -4327.334190495371
+    y: 75.0
+    z: -449.69333903889594
+    yaw: -285.5501
+    pitch: 23.949951
+  xp:
+    world: world_the_end
+    x: 202.69999998807907
+    y: 0.5
+    z: 216.30000001192093
+    yaw: 19.153784
+    pitch: 9.299933
+  av:
+    world: world
+    x: -3870.300000011921
+    y: 41.0
+    z: -2300.699999988079
+    yaw: -298.3188
+    pitch: 73.94997

@@ -1,0 +1,29 @@
+lastAccountName: OAMPEISHON
+timestamps:
+  login: 1564074238486
+  lastteleport: 1564075930360
+  logout: 1564076238291
+ipAddress: 190.62.250.78
+money: '171.1269999999999943'
+lastlocation:
+  world: world
+  x: -4353.5
+  y: 72.0
+  z: -368.5
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  hola:
+    world: world
+    x: -4299.459526493833
+    y: 64.0
+    z: -536.467287350633
+    yaw: 356.70853
+    pitch: 56.283787
+logoutlocation:
+  world: world
+  x: -4304.6857346319985
+  y: 36.0
+  z: -532.4482877752548
+  yaw: 41.160065
+  pitch: -44.421112

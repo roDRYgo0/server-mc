@@ -1,0 +1,142 @@
+groups:
+  owner:
+    options:
+      prefix: '[&9&lDIOS&r]'
+  moderador:
+    options:
+      prefix: '[MOD]'
+    permissions:
+    - essentials.back
+    - essentials.home
+    - essentials.tpdeny
+    - essentials.tpaccept
+    - essentials.tpa
+    - essentials.sethome.multiple
+    - essentials.sethome.bed
+    - essentials.jump
+    - essentials.mute
+    - essentials.suicide
+    - essentials.msg
+    - essentials.msg.format
+    - essentials.msg.color
+    - essentials.msg
+    - essentials.balance
+    - essentials.pay.multiple
+    - essentials.pay
+    - essentials.ban
+    - essentials.banip
+    - essentials.
+    - modifyworld.*
+  default:
+    options:
+      default: true
+      prefix: '[{jobs}]'
+      suffix: ''
+    permissions:
+    - OldCombatMechanics.*
+    - OldCombatMechanics.toggle
+    - chestcleaner.cmd.cleaninventory
+    - essentials.afk
+    - essentials.chat.*
+    - essentials.msg.*
+    - essentials.delhome
+    - quickshop.create.bu
+    - tntrun.join
+    - essentials.back
+    - essentials.home
+    - essentials.tpdeny
+    - essentials.tpaccept
+    - essentials.tpa
+    - essentials.sethome.multiple
+    - essentials.sethome.bed
+    - essentials.sethome
+    - essentials.jump
+    - essentials.suicide
+    - essentials.msg.suicide
+    - essentials.msg.format
+    - essentials.msg.color
+    - essentials.msg
+    - essentials.balance
+    - essentials.pay.multiple
+    - essentials.pay
+    - modifyworld.*
+    worlds:
+      recursos:
+        permissions: []
+      terracota:
+        permissions: []
+      pvp:
+        permissions:
+        - kp.arrowreturn
+        - kp.arrowmessage
+        - kp.soupreturn
+        - kp.givekititem
+        - kp.ability.*
+        - kp.kit.*
+        - kp.command.stats
+        - kp.command.clear
+        - kp.command.spawn
+        - kp.command.kit
+        - kp.command.kits
+        - kp.command.menu
+      world:
+        permissions:
+        - quickshop.create.*
+        - quickshop.use
+  moderator:
+    options:
+      prefix: popo
+schema-version: 1
+users:
+  d0bed713-34ee-3178-bd39-8b732e089828:
+    options:
+      name: POO
+  dcbd8688-a96e-3bb4-a961-b3d1e202b7f9:
+    options:
+      name: Kriz3000
+    group:
+    - default
+    - moderador
+  31ef5340-0b61-3e1c-93f0-77870f338306:
+    options:
+      name: ElianFran
+    group:
+    - default
+    - moderador
+  3daa9cbc-4d3c-3c82-a220-fd34b80bda7b:
+    options:
+      name: PaoloXPerla
+  1aff1993-7a22-39b1-a0d9-85f36a25f292:
+    options:
+      name: 0JD0
+  81863ea7-f48f-3b4b-97fe-a20aa8efd33e:
+    options:
+      name: beto
+    group:
+    - default
+    - moderador
+  bb3d21d0-879a-38cd-8223-db2277e9abc4:
+    options:
+      name: Elviolaburras
+  9c33e2d9-2a8b-3ee1-bfdf-9800536f92ec:
+    options:
+      name: AtolChuco
+    group:
+    - default
+    - moderador
+  530fa97a-357f-3c19-94d3-0c5c65c18fe8:
+    options:
+      name: test
+    group:
+    - owner
+  57301175-2a2b-3d08-af1c-40024cea88bf:
+    options:
+      name: FOSand27
+  b9253ac6-efae-3d56-b511-229a015d5964:
+    options:
+      name: SrGiox
+  a913a3d3-dfca-3824-8dce-d97beb0d1c8d:
+    group:
+    - owner
+    options:
+      name: UwU

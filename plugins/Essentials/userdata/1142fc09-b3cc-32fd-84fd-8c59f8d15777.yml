@@ -1,0 +1,29 @@
+lastAccountName: Pacheco
+timestamps:
+  login: 1564538695934
+  logout: 1564545161877
+  lastteleport: 1564543227891
+ipAddress: 179.51.60.109
+logoutlocation:
+  world: pvp
+  x: -1.5
+  y: 74.0
+  z: -4.5
+  yaw: -8.84784
+  pitch: 22.799978
+money: '199.35300000000004823'
+homes:
+  home:
+    world: world
+    x: -4333.394194704323
+    y: 69.0
+    z: -399.69999998807907
+    yaw: -359.34982
+    pitch: 47.09999
+lastlocation:
+  world: recursos
+  x: 200.88007496436654
+  y: 61.0
+  z: 23.16924454077431
+  yaw: -51.00187
+  pitch: 18.450035

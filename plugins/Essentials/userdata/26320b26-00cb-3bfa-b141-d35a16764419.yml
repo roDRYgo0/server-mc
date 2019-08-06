@@ -1,0 +1,46 @@
+lastAccountName: stevenbdf2019
+timestamps:
+  login: 1565056990242
+  logout: 1565060210692
+  lastteleport: 1565060195290
+  mute: 0
+ipAddress: 179.5.233.69
+money: '1033.21549999999992183'
+lastlocation:
+  world: world
+  x: -4370.3682893879695
+  y: 71.5
+  z: -376.2110609209684
+  yaw: -184.12305
+  pitch: 23.783619
+logoutlocation:
+  world: world
+  x: -4351.539228686126
+  y: 65.0
+  z: -471.1636889389595
+  yaw: -158.5592
+  pitch: 7.7452645
+afk: false
+homes:
+  home:
+    world: world
+    x: -4353.226246118073
+    y: 69.0
+    z: -471.0994641108183
+    yaw: -5.027771
+    pitch: 30.85619
+  mina:
+    world: recursos
+    x: 42.40961346632101
+    y: 11.0
+    z: -362.69999998807907
+    yaw: -359.94257
+    pitch: 21.291845
+  aventura:
+    world: world
+    x: -1800.0585311999694
+    y: 66.0
+    z: -4183.880100847844
+    yaw: -83.71572
+    pitch: 20.417372
+muted: false

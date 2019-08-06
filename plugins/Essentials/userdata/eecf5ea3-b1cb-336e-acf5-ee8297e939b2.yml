@@ -1,0 +1,28 @@
+lastAccountName: FernandoRG64
+timestamps:
+  login: 1564590503203
+  logout: 1564590768740
+  lastteleport: 1564580747046
+ipAddress: 190.62.244.27
+logoutlocation:
+  world: world
+  x: -4258.8327935526
+  y: 115.0
+  z: -1497.762507497949
+  yaw: 356.24774
+  pitch: 21.149994
+lastlocation:
+  world: world
+  x: -4276.043794833769
+  y: 87.0
+  z: -1509.300000011921
+  yaw: 84.293335
+  pitch: -6.9000034
+homes:
+  home:
+    world: world
+    x: -4257.88638297923
+    y: 115.0
+    z: -1497.5565019117857
+    yaw: -159.15143
+    pitch: 26.150171

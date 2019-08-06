@@ -1,0 +1,61 @@
+stevenbdfOP:
+  Inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1968
+    type: COBBLESTONE
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1968
+    type: CREEPER_HEAD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1968
+    type: WOODEN_AXE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1968
+    type: GUNPOWDER
+  - ==: org.bukkit.inventory.ItemStack
+    v: 1968
+    type: DARK_OAK_PLANKS
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  Armor:
+  - null
+  - null
+  - null
+  - null
+  Health: 20.0
+  Hunger: 20

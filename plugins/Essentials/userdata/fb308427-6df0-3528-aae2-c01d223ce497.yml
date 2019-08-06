@@ -1,0 +1,43 @@
+lastAccountName: Pupusa89
+timestamps:
+  login: 1564551164034
+  logout: 1564560766566
+  lastteleport: 1564556848449
+ipAddress: 190.62.251.224
+money: '3373.28650000000000824'
+logoutlocation:
+  world: pvp
+  x: 47.88056707842249
+  y: 70.0
+  z: 17.27342044736443
+  yaw: -256.55774
+  pitch: 7.7320156
+lastlocation:
+  world: world
+  x: -4335.3762668013715
+  y: 72.0
+  z: -388.74296766693493
+  yaw: 125.09876
+  pitch: 16.397093
+homes:
+  home:
+    world: world
+    x: -4339.116653854449
+    y: 70.0
+    z: -530.876997753086
+    yaw: -268.53537
+    pitch: 30.566996
+  aldeano:
+    world: world
+    x: -6087.50049890805
+    y: 71.0
+    z: -1001.803219822995
+    yaw: 0.052387327
+    pitch: 4.976796
+  nether:
+    world: world_nether
+    x: -485.9376305542653
+    y: 66.0
+    z: -97.643191233329
+    yaw: -182.62376
+    pitch: 32.63718

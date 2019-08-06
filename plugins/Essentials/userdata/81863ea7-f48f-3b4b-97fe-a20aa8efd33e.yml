@@ -1,0 +1,44 @@
+lastAccountName: beto
+timestamps:
+  login: 1565071315198
+  lastteleport: 1565072666552
+  logout: 1565072760377
+ipAddress: 190.62.251.207
+money: '2450.44600000000000084'
+lastlocation:
+  world: recursos
+  x: 3648.8360838633726
+  y: 11.0
+  z: 3134.4532957890824
+  yaw: 135.28365
+  pitch: 13.2892885
+logoutlocation:
+  world: world
+  x: -4411.555347812221
+  y: 68.0
+  z: -437.6716116065885
+  yaw: -178.29971
+  pitch: 12.7
+homes:
+  rancho:
+    world: world_the_end
+    x: 247.2682636725713
+    y: 1.5
+    z: 5.138941529804576
+    yaw: -113.72515
+    pitch: 20.985256
+  beto:
+    world: world
+    x: -4402.0720071959
+    y: 68.0
+    z: -433.0848451980281
+    yaw: 75.35068
+    pitch: 10.449992
+  nether2:
+    world: world_nether
+    x: 377.82386595187864
+    y: 36.0
+    z: -100.99879737760016
+    yaw: -235.99239
+    pitch: 40.800007
+afk: false

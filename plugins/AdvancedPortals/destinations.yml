@@ -1,0 +1,48 @@
+# 
+#  ExampleDestination:
+#    world: it will be the world name
+#    pos:
+#      X:
+#      Y:
+#      Z:
+
+recursos:
+  world: recursos
+  pos:
+    X: 209.8216343589383
+    Y: 64.5
+    Z: -13.505649387951284
+    pitch: 31.649807
+    yaw: 272.84814
+the_end:
+  world: end
+  pos:
+    X: 99.4240416777381
+    Y: 50.0
+    Z: 24.32902266524041
+    pitch: 33.599865
+    yaw: 265.05078
+pvp:
+  world: pvp
+  pos:
+    X: -1.463036977112358
+    Y: 74.0
+    Z: -4.300989373584866
+    pitch: 80.55
+    yaw: -5.84787
+return_pvp:
+  world: world
+  pos:
+    X: -4343.087260710474
+    Y: 72.0
+    Z: -378.33528187754956
+    pitch: 22.499836
+    yaw: -181.50403
+return:
+  world: world
+  pos:
+    X: -4342.44715730438
+    Y: 80.0
+    Z: -377.51238052689854
+    pitch: 87.30006
+    yaw: -183.70413

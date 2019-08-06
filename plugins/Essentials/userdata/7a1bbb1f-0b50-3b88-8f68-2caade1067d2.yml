@@ -1,0 +1,29 @@
+lastAccountName: jrfg
+timestamps:
+  login: 1564846358946
+  logout: 1564848394684
+  lastteleport: 1564767877420
+ipAddress: 190.86.236.73
+logoutlocation:
+  world: world
+  x: -4329.336551925229
+  y: 68.0
+  z: -571.1213321375653
+  yaw: 290.01782
+  pitch: 21.149937
+money: '3784.46150000000002412'
+lastlocation:
+  world: world
+  x: -4317.177570496943
+  y: 72.0
+  z: -422.75069084098527
+  yaw: 190.25049
+  pitch: 16.949978
+homes:
+  minita:
+    world: world
+    x: -5134.300000011921
+    y: 11.0
+    z: -41.36936108762589
+    yaw: -14.764832
+    pitch: 15.919583

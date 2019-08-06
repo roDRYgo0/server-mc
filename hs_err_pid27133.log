@@ -1,0 +1,128 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 12288 bytes for committing reserved memory.
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   The process is running with CompressedOops enabled, and the Java Heap may be blocking the growth of the native heap
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+#   JVM is running with Zero Based Compressed Oops mode in which the Java heap is
+#     placed in the first 32GB address space. The Java Heap base address is the
+#     maximum limit for the native heap growth. Please use -XX:HeapBaseMinAddress
+#     to set the Java Heap base and to place the Java Heap above 32GB virtual address.
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (os_linux.cpp:2757), pid=27133, tid=0x00007fb82a916700
+#
+# JRE version: OpenJDK Runtime Environment (8.0_222-b10) (build 1.8.0_222-8u222-b10-1~deb9u1-b10)
+# Java VM: OpenJDK 64-Bit Server VM (25.222-b10 mixed mode linux-amd64 compressed oops)
+# Failed to write core dump. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00007fb831747800):  JavaThread "pool-35-thread-28" [_thread_new, id=32342, stack(0x00007fb82a816000,0x00007fb82a917000)]
+
+Stack: [0x00007fb82a816000,0x00007fb82a917000],  sp=0x00007fb82a915b50,  free space=1022k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [libjvm.so+0xa7c530]
+V  [libjvm.so+0x4cbb3c]
+V  [libjvm.so+0x8cae0c]
+V  [libjvm.so+0x8c239e]
+V  [libjvm.so+0x8cc397]
+V  [libjvm.so+0xa1dd48]
+V  [libjvm.so+0xa21e7c]
+V  [libjvm.so+0x8c8622]
+C  [libpthread.so.0+0x74a4]  start_thread+0xc4
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+=>0x00007fb831747800 JavaThread "pool-35-thread-28" [_thread_new, id=32342, stack(0x00007fb82a816000,0x00007fb82a917000)]
+  0x00007fb831754800 JavaThread "pool-17-thread-125" [_thread_blocked, id=32328, stack(0x00007fb829b0d000,0x00007fb829c0e000)]
+  0x00007fb83172c000 JavaThread "Server-Worker-7474" daemon [_thread_blocked, id=32326, stack(0x00007fb829a0c000,0x00007fb829b0d000)]
+  0x00007fb831741000 JavaThread "pool-11-thread-1" [_thread_blocked, id=23380, stack(0x00007fb82a414000,0x00007fb82a515000)]
+  0x00007fb884023800 JavaThread "pool-39-thread-1" [_thread_blocked, id=27300, stack(0x00007fb82990b000,0x00007fb829a0c000)]
+  0x00007fb8312b1800 JavaThread "Jobs-BufferedPaymentThread" [_thread_blocked, id=27274, stack(0x00007fb82d623000,0x00007fb82d724000)]
+  0x00007fb8312ab800 JavaThread "Jobs-DatabaseSaveTask" [_thread_blocked, id=27273, stack(0x00007fb82b117000,0x00007fb82b218000)]
+  0x00007fb83115e000 JavaThread "pool-40-thread-1" [_thread_blocked, id=27262, stack(0x00007fb82b418000,0x00007fb82b519000)]
+  0x00007fb8587aa800 JavaThread "Netty Epoll Server IO #3" daemon [_thread_in_vm, id=27245, stack(0x00007fb82cf1e000,0x00007fb82d01f000)]
+  0x00007fb831094000 JavaThread "Timer-2" [_thread_blocked, id=27227, stack(0x00007fb88892b000,0x00007fb888a2c000)]
+  0x00007fb830eb1800 JavaThread "Ebean-LoginSecurityDB.0" daemon [_thread_blocked, id=27220, stack(0x00007fb82dc25000,0x00007fb82dd26000)]
+  0x00007fb830641000 JavaThread "Abandoned connection cleanup thread" daemon [_thread_in_vm, id=27219, stack(0x00007fb83802f000,0x00007fb838130000)]
+  0x00007fb830f7b000 JavaThread "EbeanBackgroundThread" daemon [_thread_blocked, id=27218, stack(0x00007fb838330000,0x00007fb838431000)]
+  0x00007fb858815800 JavaThread "Netty Epoll Server IO #2" daemon [_thread_blocked, id=27214, stack(0x00007fb838a31000,0x00007fb838b32000)]
+  0x00007fb85839b000 JavaThread "Netty Epoll Server IO #1" daemon [_thread_blocked, id=27199, stack(0x00007fb838d32000,0x00007fb838e33000)]
+  0x00007fb830b04000 JavaThread "Timer-1" daemon [_thread_blocked, id=27182, stack(0x00007fb839233000,0x00007fb839334000)]
+  0x00007fb830a73000 JavaThread "Timer-0" [_thread_blocked, id=27179, stack(0x00007fb839334000,0x00007fb839435000)]
+  0x00007fb83025c800 JavaThread "Netty Epoll Server IO #0" daemon [_thread_in_vm, id=27174, stack(0x00007fb83a1c8000,0x00007fb83a2c9000)]
+  0x00007fb83025f800 JavaThread "ObjectCleanerThread" daemon [_thread_in_vm, id=27173, stack(0x00007fb83a2c9000,0x00007fb83a3ca000)]
+  0x00007fb83010c800 JavaThread "Spigot Metrics Thread" daemon [_thread_in_vm, id=27170, stack(0x00007fb83ae21000,0x00007fb83af22000)]
+  0x00007fb83010a000 JavaThread "Spigot Watchdog Thread" [_thread_in_vm, id=27169, stack(0x00007fb83af22000,0x00007fb83b023000)]
+  0x00007fb8300b1800 JavaThread "Java2D Disposer" daemon [_thread_blocked, id=27168, stack(0x00007fb83b223000,0x00007fb83b324000)]
+  0x00007fb830003800 JavaThread "Server console handler" daemon [_thread_in_native, id=27165, stack(0x00007fb83b9fc000,0x00007fb83bafd000)]
+  0x00007fb830002000 JavaThread "Thread-4" daemon [_thread_blocked, id=27164, stack(0x00007fb83bafd000,0x00007fb83bbfe000)]
+  0x00007fb8a400a800 JavaThread "DestroyJavaVM" [_thread_blocked, id=27134, stack(0x00007fb8aac74000,0x00007fb8aad74000)]
+  0x00007fb8a4dc4800 JavaThread "Server thread" [_thread_in_vm, id=27163, stack(0x00007fb83bbfe000,0x00007fb83bcff000)]
+  0x00007fb8a4dc3800 JavaThread "Server Infinisleeper" daemon [_thread_blocked, id=27162, stack(0x00007fb83bcff000,0x00007fb83be00000)]
+  0x00007fb8a4dbd800 JavaThread "NonBlockingInputStreamThread" daemon [_thread_blocked, id=27161, stack(0x00007fb8400fe000,0x00007fb8401ff000)]
+  0x00007fb8a4d88800 JavaThread "Snooper Timer" daemon [_thread_blocked, id=27150, stack(0x00007fb88802a000,0x00007fb88812b000)]
+  0x00007fb8a4153000 JavaThread "Service Thread" daemon [_thread_blocked, id=27143, stack(0x00007fb88995c000,0x00007fb889a5d000)]
+  0x00007fb8a413e000 JavaThread "C1 CompilerThread1" daemon [_thread_blocked, id=27142, stack(0x00007fb889a5e000,0x00007fb889b5e000)]
+  0x00007fb8a413b000 JavaThread "C2 CompilerThread0" daemon [_thread_blocked, id=27141, stack(0x00007fb889b5f000,0x00007fb889c5f000)]
+  0x00007fb8a4139800 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=27140, stack(0x00007fb889c5f000,0x00007fb889d60000)]
+  0x00007fb8a4107800 JavaThread "Finalizer" daemon [_thread_blocked, id=27139, stack(0x00007fb889efb000,0x00007fb889ffc000)]
+  0x00007fb8a4105000 JavaThread "Reference Handler" daemon [_thread_blocked, id=27138, stack(0x00007fb889ffc000,0x00007fb88a0fd000)]
+
+Other Threads:
+  0x00007fb8a40fb000 VMThread [stack: 0x00007fb88a0fe000,0x00007fb88a1fe000] [id=27137]
+  0x00007fb8a4155000 WatcherThread [stack: 0x00007fb88985c000,0x00007fb88995c000] [id=27144]
+
+VM state:synchronizing (normal execution)
+
+VM Mutex/Monitor currently owned by a thread:  ([mutex/lock_event])
+[0x00007fb8a4006e60] Safepoint_lock - owner thread: 0x00007fb8a40fb000
+[0x00007fb8a4006ee0] Threads_lock - owner thread: 0x00007fb8a40fb000
+
+heap address: 0x0000000440000000, size: 14336 MB, Compressed Oops mode: Zero based, Oop shift amount: 3
+Narrow klass base: 0x0000000000000000, Narrow klass shift: 3
+Compressed class space size: 1073741824 Address: 0x00000007c0000000
+
+Heap:
+ PSYoungGen      total 4820480K, used 125036K [0x0000000695580000, 0x00000007c0000000, 0x00000007c0000000)
+  eden space 4747776K, 1% used [0x0000000695580000,0x000000069b20ed58,0x00000007b7200000)
+  from space 72704K, 41% used [0x00000007bb900000,0x00000007bd68c4a8,0x00000007c0000000)
+  to   space 72704K, 0% used [0x00000007b7200000,0x00000007b7200000,0x00000007bb900000)
+ ParOldGen       total 9786880K, used 4585324K [0x0000000440000000, 0x0000000695580000, 0x0000000695580000)
+  object space 9786880K, 46% used [0x0000000440000000,0x0000000557ddb260,0x0000000695580000)
+ Metaspace       used 121593K, capacity 134876K, committed 135128K, reserved 1167360K
+  class space    used 14628K, capacity 17338K, committed 17408K, reserved 1048576K
+
+Card table byte_map: [0x00007fb8925f8000,0x00007fb8941f9000] byte_map_base: 0x00007fb8903f8000
+
+Marking Bits: (ParMarkBitMap*) 0x00007fb8a9f57560
+ Begin Bits: [0x00007fb868000000, 0x00007fb876000000)
+ End Bits:   [0x00007fb876000000, 0x00007fb884000000)
+
+Polling page: 0x00007fb8aad7e000
+
+CodeCache: size=245760Kb used=107684Kb max_used=107697Kb free=138075Kb
+ bounds [0x00007fb8945b9000, 0x00007fb89b019000, 0x00007fb8a35b9000]
+ total_blobs=29022 nmethods=28042 adapters=886
+ compilation: enabled
+
+Compilation events (10 events):
+Event: 119152.946 Thread 0x00007fb8a413e000 49215       3       com.sun.crypto.provider.TlsPrfGenerator::doTLS12PRF (36 bytes)
+Event: 119152.947 Thread 0x00007fb8a413e000 nmethod 49215 0x00007fb89a5c6c90 code [0x00007fb89a5c6e20, 0x00007fb89a5c70e8]
+Event: 119167.762 Thread 0x00007fb8a413e000 49217   !   3       javax.crypto.KeyGenerator::nextSpi (253 bytes)
+Event: 119167.764 Thread 0x00007fb8a413e000 nmethod 49217 0x00007fb89aad3490 code [0x00007fb89aad3780, 0x00007fb89aad5108]
+Event: 119167.770 Thread 0x00007fb8a413e000 49218       3       sun.security.provider.SHA2$SHA256::clone (5 bytes)
+Event: 119167.774 Thread 0x00007fb8a413e000 nmethod 49218 0x00007fb897038a90 code [0x00007fb897038c80, 0x00007fb897039758]
+Event: 119167.781 Thread 0x00007fb8a413e000 49219       3       sun.security.provider.SHA2::clone (32 bytes)

@@ -1,0 +1,36 @@
+lastAccountName: cloud808
+timestamps:
+  login: 1565063143670
+  lastteleport: 1564623686733
+  logout: 1565063527105
+ipAddress: 179.5.103.93
+lastlocation:
+  world: world
+  x: -4217.455628163316
+  y: 79.0
+  z: -1426.2341468630605
+  yaw: 108.745056
+  pitch: 1.6500098
+money: '8178.15249999999999027'
+logoutlocation:
+  world: world
+  x: -4199.755684649339
+  y: 96.0
+  z: -1482.6149963021176
+  yaw: 305.37476
+  pitch: 3.9000547
+homes:
+  casa:
+    world: world
+    x: -4199.390003611045
+    y: 96.0
+    z: -1483.8281364042775
+    yaw: 50.09668
+    pitch: 49.5
+  aqui:
+    world: world
+    x: -4155.0405337509155
+    y: 107.0
+    z: -1471.3582055964885
+    yaw: 179.25
+    pitch: 37.349987

@@ -1,0 +1,30 @@
+lastAccountName: test
+timestamps:
+  login: 1565027983870
+  lastteleport: 1565028581803
+  logout: 1565028978993
+ipAddress: 179.51.60.109
+lastlocation:
+  world: world
+  x: -370.2753492136555
+  y: 13.197346495800513
+  z: -3248.2268845953013
+  yaw: -242.40265
+  pitch: 10.950068
+homes:
+  home:
+    world: pvp
+    x: -1.6555654267741955
+    y: 76.0625
+    z: 1.560327251464516
+    yaw: 1.5021589
+    pitch: 17.99997
+money: '10328.0029999999999977'
+logoutlocation:
+  world: world
+  x: -714.2012561523295
+  y: 20.363327552238918
+  z: -2901.539117198564
+  yaw: -198.90454
+  pitch: 11.699944
+afk: false

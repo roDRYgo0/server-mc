@@ -1,0 +1,43 @@
+lastAccountName: aezeq
+timestamps:
+  login: 1564967976311
+  logout: 1564972635299
+  lastteleport: 1564972600253
+ipAddress: 190.62.250.88
+logoutlocation:
+  world: world
+  x: -4713.4481651116575
+  y: 91.0
+  z: -635.5033830957781
+  yaw: -283.34888
+  pitch: -5.0999393
+money: '1385.99199999999991867'
+lastlocation:
+  world: recursos
+  x: 280.4936732641761
+  y: 62.0
+  z: -32.09324926722137
+  yaw: 102.148834
+  pitch: 7.349999
+homes:
+  home:
+    world: world
+    x: -4725.568071172375
+    y: 91.0
+    z: -631.85019026987
+    yaw: -201.59894
+    pitch: 22.650038
+  donbosco:
+    world: world
+    x: -4396.699999988079
+    y: 62.0
+    z: -632.0794630054278
+    yaw: -23.144989
+    pitch: 26.249514
+  mina:
+    world: world_the_end
+    x: -242.68758869156696
+    y: 57.0
+    z: -0.2527643064572341
+    yaw: 86.9845
+    pitch: 44.84988

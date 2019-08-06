@@ -1,0 +1,43 @@
+lastAccountName: SrGiox
+timestamps:
+  login: 1565038358312
+  lastteleport: 1565040954588
+  logout: 1565041124969
+ipAddress: 190.87.70.123
+lastlocation:
+  world: world
+  x: -7379.5
+  y: 68.0
+  z: -206.5
+  yaw: 12.156708
+  pitch: 13.389789
+homes:
+  home:
+    world: world
+    x: -4526.131469322997
+    y: 97.0
+    z: -529.526340456142
+    yaw: 312.41235
+    pitch: 24.277021
+  perros:
+    world: world
+    x: -5123.813660461122
+    y: 69.0
+    z: -35.27344041023244
+    yaw: 45.171143
+    pitch: 18.173141
+  pueblo:
+    world: world
+    x: -7379.853183881654
+    y: 67.9375
+    z: -206.9469353785431
+    yaw: 12.156708
+    pitch: 13.389789
+logoutlocation:
+  world: world
+  x: -7379.300000011921
+  y: 62.6152692249247
+  z: -227.30000001192093
+  yaw: -221.69304
+  pitch: 67.38974
+money: '1973.3850000000003127'

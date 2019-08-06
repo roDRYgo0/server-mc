@@ -1,0 +1,15 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2019-07-31 02:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_frozen_ocean": "2019-07-31 02:28:02 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 1968
+}

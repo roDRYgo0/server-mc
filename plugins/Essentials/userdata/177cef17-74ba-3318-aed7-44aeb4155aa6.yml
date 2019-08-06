@@ -1,0 +1,35 @@
+lastAccountName: R1ckar_24
+timestamps:
+  login: 1564629400818
+  lastteleport: 1564632352954
+  logout: 1564634847765
+ipAddress: 138.186.250.87
+lastlocation:
+  world: world
+  x: -4343.237745861251
+  y: 73.0
+  z: -372.2537833095401
+  yaw: -39.15775
+  pitch: 3.4590697
+logoutlocation:
+  world: world
+  x: -3693.545012842172
+  y: 90.0
+  z: -226.88994442350108
+  yaw: -129.906
+  pitch: -5.8270326
+homes:
+  house:
+    world: world
+    x: -3693.3206637000926
+    y: 90.0
+    z: -231.63387087585176
+    yaw: -21.552477
+    pitch: 27.231352
+  mina:
+    world: world
+    x: -3894.699999988079
+    y: 27.0
+    z: 523.1043307718498
+    yaw: 224.70592
+    pitch: 26.46661

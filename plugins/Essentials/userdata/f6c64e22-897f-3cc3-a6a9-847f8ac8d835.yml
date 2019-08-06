@@ -1,0 +1,36 @@
+lastAccountName: Prz_Jonathan
+timestamps:
+  login: 1565040706434
+  lastteleport: 1565041148021
+  logout: 1565042223913
+ipAddress: 190.86.153.119
+lastlocation:
+  world: world
+  x: -7367.41426726582
+  y: 65.9375
+  z: -239.4889140473474
+  yaw: -255.95265
+  pitch: 13.34373
+logoutlocation:
+  world: world
+  x: -3691.1738212680875
+  y: 90.0
+  z: -236.82702628809258
+  yaw: 285.39905
+  pitch: 22.199986
+homes:
+  casa:
+    world: world
+    x: -3685.8230324102074
+    y: 90.0
+    z: -228.09110287427853
+    yaw: 152.73386
+    pitch: 20.550102
+  mina:
+    world: world
+    x: -3980.7782115379177
+    y: 24.0
+    z: -1112.6655491574427
+    yaw: 236.39404
+    pitch: 40.649975
+money: '15486.55500000000025241'

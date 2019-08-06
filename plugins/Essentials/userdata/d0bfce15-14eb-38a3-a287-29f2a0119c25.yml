@@ -1,0 +1,29 @@
+lastAccountName: MiguelGR
+timestamps:
+  login: 1564333030011
+  logout: 1564333099654
+  lastteleport: 1564099545896
+ipAddress: 190.53.11.41
+logoutlocation:
+  world: world
+  x: -4361.419717379234
+  y: 66.0
+  z: -595.8014913868105
+  yaw: -165.44992
+  pitch: 8.399973
+money: '639.1850000000000046'
+lastlocation:
+  world: world
+  x: -4365.899783903241
+  y: 72.0
+  z: -373.91706064943656
+  yaw: -348.30002
+  pitch: 22.599976
+homes:
+  home:
+    world: world
+    x: -4366.698398297587
+    y: 64.0
+    z: -574.3563234649289
+    yaw: -184.7996
+    pitch: 32.800003

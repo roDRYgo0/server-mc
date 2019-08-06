@@ -1,0 +1,43 @@
+lastAccountName: Kriz3000
+timestamps:
+  login: 1564883447591
+  lastteleport: 1564893586686
+  logout: 1564893636842
+ipAddress: 190.150.115.4
+lastlocation:
+  world: world_the_end
+  x: -243.4308684687497
+  y: 57.0
+  z: -1.95879757465207
+  yaw: 115.526
+  pitch: 18.557505
+homes:
+  home:
+    world: world
+    x: -4393.883794720203
+    y: 70.0
+    z: -397.5636449109141
+    yaw: 271.7964
+    pitch: 31.646698
+  mina:
+    world: world_the_end
+    x: -241.30187127813323
+    y: 57.0
+    z: -0.5716913509054408
+    yaw: 87.65845
+    pitch: 52.766647
+  end:
+    world: recursos
+    x: 115.4795000341571
+    y: 71.0
+    z: 1277.300000011921
+    yaw: 6.505615
+    pitch: 16.48643
+money: '1412.61100000000032518'
+logoutlocation:
+  world: world
+  x: -4419.105504379793
+  y: 71.0
+  z: -372.5863614330482
+  yaw: 88.57736
+  pitch: 27.124605

@@ -1,0 +1,29 @@
+lastAccountName: CommieTaco
+timestamps:
+  login: 1565054586467
+  logout: 1565056457081
+  lastteleport: 1565054652940
+ipAddress: 190.62.251.250
+money: '259.87900000000014224'
+homes:
+  home:
+    world: world
+    x: -4536.287060059944
+    y: 97.0
+    z: -479.28519502676414
+    yaw: 282.98865
+    pitch: 29.250004
+logoutlocation:
+  world: world
+  x: -4560.399527141794
+  y: 96.0
+  z: -474.05546303196337
+  yaw: 251.0307
+  pitch: 2.400276
+lastlocation:
+  world: world
+  x: -4521.613645059629
+  y: 92.0
+  z: -516.8625000119209
+  yaw: -278.9151
+  pitch: 15.300059

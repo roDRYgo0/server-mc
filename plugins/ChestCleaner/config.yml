@@ -1,0 +1,48 @@
+Strings:
+- Syntex Error
+- Error
+- I'm sorry, but you do not have permission to perform this command.
+- You can sort the next inventory in %time seconds.
+- The block at the location %location has no inventory.
+- Inventory sorted.
+- There is no world with the name "%worldname".
+- You have to be a player to perform this Command
+- 'Timer: true'
+- 'Timer: false'
+- 'Timer: %time'
+- 'The name of your new cleaning item is now: "%itemname§a"'
+- Cleaning item lore was set.
+- '%newitem is now the new cleaning item.'
+- You have to hold an item to do this.
+- You got an cleaning item.
+- 'Cleaning item: true'
+- 'Cleaning item: false'
+- The player %playername got a cleaning item.
+- Player %playername is not online.
+- 'OpenInventoryEvent-DetectionMode was set to: %modeBoolean'
+- A new update is available at:§b https://www.spigotmc.org/resources/40313/updates
+- 'DurabilityLoss: true'
+- 'DurabilityLoss: false'
+- The material of the item "%material" was added to the blacklist.
+- The material "%material" was removed form the blacklist.
+- The blacklist does not contain the material "%material".
+- Index is out of bounds, it have to be bigger than -1 and smaller than %biggestindex.
+- The blacklist is empty.
+- 'The BlackList page %page:'
+- 'For the next entries: /list %nextpage'
+- 'Invalid input for an integer: %index'
+- 'Invalid page number (valid  page number range: %range)'
+- There is no Material with the name "%material".
+- The blacklist was successfully cleared.
+- The material %material is already on the blacklist.
+- This Inventory is on the blacklist, you can't sort it.
+cleaningItem:
+  ==: org.bukkit.inventory.ItemStack
+  v: 1968
+  type: IRON_HOE
+active: true
+durability: true
+openinventoryeventmode: false
+consumablesrefill: true
+blockrefill: true
+cleanInventorypermissionactive: true

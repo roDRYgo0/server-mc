@@ -1,0 +1,21 @@
+lastAccountName: andrecandray
+timestamps:
+  login: 1564512809094
+  logout: 1564513542566
+  lastteleport: 1564513537894
+ipAddress: 190.53.110.164
+logoutlocation:
+  world: world
+  x: -4482.5
+  y: 84.0
+  z: -454.5
+  yaw: 0.0
+  pitch: 0.0
+lastlocation:
+  world: world_nether
+  x: -470.776059246463
+  y: 66.0
+  z: -104.76808963301954
+  yaw: -124.75017
+  pitch: -4.25001
+money: '3657.90900000000000758'

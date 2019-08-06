@@ -1,0 +1,43 @@
+lastAccountName: NelsonCR
+timestamps:
+  login: 1564943656100
+  logout: 1564943660539
+  lastteleport: 1564939217621
+ipAddress: 190.62.53.171
+money: '2534.3584999999999970'
+logoutlocation:
+  world: world
+  x: -4213.642892995147
+  y: 63.0
+  z: -505.1722389104771
+  yaw: -98.170845
+  pitch: 53.250057
+lastlocation:
+  world: world
+  x: -4237.307166380373
+  y: 73.0
+  z: -326.0481569207653
+  yaw: -97.670166
+  pitch: 13.050004
+homes:
+  home:
+    world: world
+    x: -4208.227598727568
+    y: 63.0
+    z: -497.8908339815002
+    yaw: -283.51758
+    pitch: 15.900045
+  mina:
+    world: world
+    x: -2977.4992733730337
+    y: 27.0
+    z: 536.1874623759066
+    yaw: -283.81873
+    pitch: 52.500027
+  mina2:
+    world: world
+    x: -5776.749583599591
+    y: 64.0
+    z: 79.19404466711538
+    yaw: -310.9749
+    pitch: 16.308954

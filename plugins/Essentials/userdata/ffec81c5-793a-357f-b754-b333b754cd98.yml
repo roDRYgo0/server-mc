@@ -1,0 +1,36 @@
+lastAccountName: JRFG
+timestamps:
+  login: 1564328393827
+  logout: 1564329101681
+  lastteleport: 1564324784345
+ipAddress: 190.86.224.129
+logoutlocation:
+  world: world
+  x: -4330.9214839968945
+  y: 68.0
+  z: -569.1554224825165
+  yaw: -8.520508
+  pitch: 18.000086
+lastlocation:
+  world: world
+  x: -4331.2194538180265
+  y: 68.0
+  z: -563.8992594208166
+  yaw: 160.75784
+  pitch: 18.450003
+money: '1442.1274999999999976'
+homes:
+  home:
+    world: world
+    x: -4332.959412032141
+    y: 68.0
+    z: -563.3570095610089
+    yaw: -344.70947
+    pitch: 27.149958
+  fort:
+    world: world_nether
+    x: -930.6999999880791
+    y: 53.0
+    z: 102.40757120981782
+    yaw: -71.397156
+    pitch: 7.0498867

@@ -1,0 +1,22 @@
+lastAccountName: bhuezo
+timestamps:
+  login: 1563942000557
+  logout: 1563943237540
+  mute: 0
+ipAddress: 190.150.48.249
+logoutlocation:
+  world: world
+  x: -4242.167847175751
+  y: 57.0
+  z: -377.09635876271113
+  yaw: 142.75507
+  pitch: 13.949932
+lastlocation:
+  world: world
+  x: -4348.951456598958
+  y: 72.0
+  z: -380.3131970727686
+  yaw: -198.34961
+  pitch: 12.750018
+money: '337.560000000000001'
+muted: false

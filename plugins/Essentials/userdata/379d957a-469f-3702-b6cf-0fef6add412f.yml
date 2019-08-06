@@ -1,0 +1,28 @@
+lastAccountName: FUIVER
+timestamps:
+  login: 1564473244946
+  lastteleport: 1564284193317
+  logout: 1564474057421
+ipAddress: 189.166.186.54
+lastlocation:
+  world: world
+  x: -4390.206310731239
+  y: 70.0
+  z: -398.05000001192093
+  yaw: -117.74991
+  pitch: -41.10001
+homes:
+  home:
+    world: world
+    x: -4392.300000011921
+    y: 70.0
+    z: -396.30000001192093
+    yaw: -255.4499
+    pitch: 20.399998
+logoutlocation:
+  world: world_nether
+  x: -418.4756234644604
+  y: 36.0
+  z: -160.17101088936172
+  yaw: -180.09825
+  pitch: 33.701454

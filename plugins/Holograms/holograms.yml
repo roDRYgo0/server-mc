@@ -1,0 +1,79 @@
+holograms:
+  shop:
+    location: world;-4342.560231723007;75.0;-365.51435885743524;83.84998;-270.1504
+    lines:
+    - §l§aTienda
+    - animated_item(5000):CHEST:0 1
+    - animated_item(5000):CHEST:0 1||DIAMOND:0 1
+  pvp:
+    location: world;-4342.318205203463;74.36803725406199;-382.69999998807907;42.599976;-181.59874
+    lines:
+    - §l§4KitPvP
+    - animated_item(5000):DIAMOND_SWORD:0 1||GOLD_SWORD:0 1||IRON_SWORD:0 1
+  spawn:
+    location: pvp;1.6999999880790713;77.86277437204667;-7.699999988079069;29.399975;-137.39792
+    lines:
+    - §l§6Spawn
+  msg:
+    location: pvp;-1.4616989199096184;75.0;-2.4597101995661963;89.55002;0.60213464
+    lines:
+    - §l/kp menu
+  spawn2:
+    location: pvp;1.6419019014715208;78.15722349025182;-1.5469375997270887;27.900024;315.30066
+    lines:
+    - §l§6Spawn
+  spawn3:
+    location: pvp;-4.729331955769004;78.15722349025182;-1.3000000119209267;53.70001;38.850098
+    lines:
+    - §l§6Spawn
+  spawn4:
+    location: pvp;-4.2331799715845495;78.15722349025182;-7.661862785157393;62.85;118.65048
+    lines:
+    - §l§6Spawn
+  msg2:
+    location: pvp;-3.515681320150071;75.0;-4.534484581847939;90.0;91.20221
+    lines:
+    - §l§f/kp menu
+  msg3:
+    location: pvp;-1.5062329198897553;75.0;-6.502750570741215;90.0;180.0022
+    lines:
+    - §l§f/kp menu
+  msg5:
+    location: pvp;0.4829178341697499;75.0;-4.483165143160549;90.0;272.70206
+    lines:
+    - §l§f/kp menu
+  clean:
+    location: world;-4342.45572810359;81.78908708279101;-378.69999998807907;73.19995;-180.25043
+    lines:
+    - §l§3/spawn
+  clean1:
+    location: world;-4341.306453393805;81.78908708279101;-377.486199940782;67.79989;-93.850586
+    lines:
+    - §l§3/spawn
+  clean2:
+    location: world;-4342.624976838585;81.78908708279101;-376.30000001192093;73.49993;-2.5006104
+    lines:
+    - §l§3/spawn
+  clean3:
+    location: world;-4343.699999988079;81.78908708279101;-377.4278132926748;68.54986;-270.0998
+    lines:
+    - §l§3/spawn
+  create:
+    location: world;-4382.383713221805;74.0;-359.7808538979703;63.74994;-271.1582
+    lines:
+    - §fPara crear una tienda
+    - §ftener lo que quieres
+    - §fvender en la mano y abrir
+    - §fel cofre, despues ejecutar
+    - §a§l/qs create
+    - y escribir en el chat
+    - a que precio lo quieres vender.
+  genesis:
+    location: world;-4380.979445433945;75.60431035219494;-365.30000001192093;51.600014;-359.69556
+    lines:
+    - §3§lGenesis
+  warn:
+    location: world;-4317.342675881165;72.36889266373093;-384.4098591403318;44.399986;258.20508
+    lines:
+    - §6§lSE PIRDEN LAS COSAS
+    - §6§lAL ENTRAR AL PORTAL

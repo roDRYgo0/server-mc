@@ -1,0 +1,45 @@
+lastAccountName: ElianFran
+timestamps:
+  login: 1564556246305
+  logout: 1564560768676
+  lastteleport: 1564458929597
+  mute: 0
+ipAddress: 190.150.253.28
+money: '1565.20800000000016888'
+logoutlocation:
+  world: pvp
+  x: -2.245721457650851
+  y: 65.0
+  z: 5.026318051869357
+  yaw: 44.702057
+  pitch: -10.20003
+lastlocation:
+  world: pvp
+  x: 19.400612941133467
+  y: 65.0
+  z: -1.788935843094552
+  yaw: -61.79774
+  pitch: 22.349989
+homes:
+  casa:
+    world: world
+    x: -4338.699999988079
+    y: 64.875
+    z: -676.6999999880791
+    yaw: 286.3474
+    pitch: 70.35006
+  spawn:
+    world: world
+    x: -4356.061944490831
+    y: 70.0
+    z: -427.3686984650927
+    yaw: 36.901
+    pitch: 26.249958
+  fort:
+    world: world
+    x: -4242.300000011921
+    y: 9.0
+    z: -223.30000001192096
+    yaw: -78.752045
+    pitch: 16.350027
+muted: false

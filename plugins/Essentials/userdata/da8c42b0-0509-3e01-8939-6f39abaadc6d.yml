@@ -1,0 +1,43 @@
+lastAccountName: DargorCM
+timestamps:
+  login: 1564800699750
+  lastteleport: 1564800939067
+  logout: 1564801901367
+ipAddress: 190.62.174.173
+lastlocation:
+  world: world
+  x: -6268.946502796992
+  y: 65.0
+  z: 2377.253886061614
+  yaw: -224.05951
+  pitch: 7.3501854
+money: '4469.0105000000000583'
+logoutlocation:
+  world: world
+  x: -4293.219621338997
+  y: 61.0
+  z: -602.2375000119209
+  yaw: -64.1333
+  pitch: 9.6
+homes:
+  home:
+    world: world
+    x: -4289.853369383904
+    y: 64.0
+    z: -603.1476856744338
+    yaw: -148.59802
+    pitch: 16.1999
+  mesa:
+    world: world
+    x: -6264.597630644235
+    y: 65.0
+    z: 2384.699999988079
+    yaw: -203.20929
+    pitch: 12.900171
+  casita:
+    world: world
+    x: -4292.233531486597
+    y: 61.0
+    z: -604.3000000119209
+    yaw: -274.30664
+    pitch: 19.299913

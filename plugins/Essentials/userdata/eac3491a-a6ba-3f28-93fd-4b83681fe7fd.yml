@@ -1,0 +1,29 @@
+lastAccountName: NoOneSpecial
+timestamps:
+  login: 1564456761585
+  logout: 1564456998219
+  lastteleport: 1564456897262
+ipAddress: 190.150.253.28
+logoutlocation:
+  world: world
+  x: -4373.973700720938
+  y: 71.0
+  z: -467.3917961011568
+  yaw: -19.449978
+  pitch: 35.19998
+lastlocation:
+  world: world
+  x: -4343.098835604452
+  y: 72.0
+  z: -373.42106071902253
+  yaw: -96.299995
+  pitch: 7.5
+money: '3393.0394999999999845'
+homes:
+  casa:
+    world: world
+    x: -4333.699999988079
+    y: 64.0
+    z: -675.2195097128736
+    yaw: -89.44876
+    pitch: 6.1500716

@@ -1,0 +1,21 @@
+lastAccountName: stevenbdfOP
+timestamps:
+  login: 1564361342335
+  logout: 1564361444943
+  lastteleport: 1564354919478
+ipAddress: 179.51.60.109
+money: '150.0'
+logoutlocation:
+  world: terracota
+  x: 14.699999988079071
+  y: 16.0
+  z: 7.768524809029792
+  yaw: -179.0996
+  pitch: 55.95
+lastlocation:
+  world: terracota
+  x: 13.058799416212906
+  y: 1.0
+  z: 4.300000011920929
+  yaw: -277.64966
+  pitch: -9.149871
